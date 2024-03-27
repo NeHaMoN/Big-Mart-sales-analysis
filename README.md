@@ -1,0 +1,2 @@
+# Big-Mart-sales-analysis
+PREDICTING SALE OF DIFFIERENT  ITEMS IN BIG MART 
